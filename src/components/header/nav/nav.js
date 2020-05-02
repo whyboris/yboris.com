@@ -44,6 +44,9 @@ const Nav = () => (
               )
             }
           )}
+          <li className="blog-divider">
+            Blog
+          </li>
           {data2.allMarkdownRemark.edges.filter((element) => {
               return element.node.fields.slug.includes('blog')
             }).map((element) => {

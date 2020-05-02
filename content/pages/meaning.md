@@ -16,7 +16,7 @@ One thing that makes life meaningful is our relationships with others, especiall
 
 Perhaps the easiest way to feel valuable within this wondrous universe is to help others, and the demand for help is so high we can be busy for the rest of our lives. There are few issues you can look at without seeing room for improvement.
 
-![the-problem](http://yboris.com/wp-content/uploads/2015/11/the-problem.jpg)
+![problem](/img/problem.jpg)
 
 Humanists, non-religious, and atheists are no strangers to charity: it’s obvious we are very generous and eager to help others. [Kiva.org distributes micro-loans](http://www.kiva.org/community) to people in developing nations and the self-identifying group of people who have contributed by far the most are the non-religious.
 

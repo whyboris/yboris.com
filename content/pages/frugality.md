@@ -10,7 +10,7 @@ id: 80
 
 I’m frugal because I want to give more to [charity](http://givewell.org/charities/top-charities). Even if you don’t share my goal, I’d like to share advice that can help you achieve more of what you’d like.
 
-*Download the [PDF](http://yboris.com/wp-content/uploads/2015/11/frugal.pdf) or read:*
+*Download the [PDF](/pdf/frugal.pdf) or read:*
 
 Frugality is a word that may have several meanings. It could mean not being lavish or extravagant with one’s spending, or it could mean avoiding waste, or just being economical of monetary resources. I don’t intend to argue for definitions, I’d like to share the best advice I’ve come across to help you think about using your money wisely.
 

@@ -267,4 +267,14 @@ export default createGlobalStyle`
     font-weight: 500;
   }
 
+  .blog-divider {
+    flex-basis: 100% !important;
+    font-weight: 500;
+    padding-top: 10px;
+  }
+
+  img {
+    max-width: calc(100vw - 80px);
+  }
+
 `;

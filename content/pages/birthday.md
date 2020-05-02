@@ -8,7 +8,7 @@ id: 110
 
 It’s been inspiring to see that simply by having a “**Birthday for Charity**” one can do so much good. I’ve encouraged my friends who want to give me a gift on my birthday to instead give to my favorite charity instead. With this, I was able to raise lots of money for my favorite charity, the *Against Malaria Foundation*. Here is the tally for the last 3 years:
 
-[![amf](http://yboris.com/wp-content/uploads/2015/11/amf.jpg)](http://yboris.com/wp-content/uploads/2015/11/amf.jpg)
+![amf](/img/amf.jpg)
 
 - [2012](http://www.againstmalaria.com/yboris2012) — $ 2,144.57
 - [2013](http://www.againstmalaria.com/yboris2013) — $ 1,244.49

@@ -4,7 +4,7 @@ date: '2015-11-25T04:01:30+00:00'
 permalink: /about
 id: 10
 ---
-[![yboris](http://yboris.com/wp-content/uploads/2015/11/yboris.jpg)](http://yboris.com/wp-content/uploads/2015/11/yboris.jpg)
+![yboris](/img/yboris.jpg)
 
 My name is [Boris Yakubchik](http://yboris.com/social/), aka YBoris. In 2012 I [quit](http://yboris.com/quitting/) my Educational Psychology Ph.D. program at Rutgers University. I was a math teacher for some years and in 2016 became a web developer for *Forbes*. In 2018 I transitioned to Data Science and now work with machine learning.
 

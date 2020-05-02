@@ -10,7 +10,7 @@ id: 70
 
 World poverty can’t end without charitable giving, your contribution is needed. True story.
 
-*Download the [PDF](http://yboris.com/wp-content/uploads/2015/11/WeCanEndWorldPoverty.pdf) or read the essay below:*
+*Download the [PDF](/pdf/WeCanEndWorldPoverty.pdf) or read the essay below:*
 
 Essentially every day for the past 50 years, the front-page news of any newspaper could have read “22,000 children died today of easily preventable causes!”<sup>1</sup> Extreme world poverty results in thousands of daily deaths due to malnourishment, hunger, or diseases that often cost less than a dollar to prevent or treat. Not only is this state of affairs depressing due to the ongoing immense human suffering and because the world could have solved these problems decades ago, but also because still, not enough is being done.
 
