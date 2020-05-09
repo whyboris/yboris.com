@@ -6,7 +6,7 @@ id: 10
 ---
 ![yboris](/img/yboris.jpg)
 
-My name is [Boris Yakubchik](http://yboris.com/social/), aka YBoris. In 2012 I [quit](http://yboris.com/quitting/) my Educational Psychology Ph.D. program at Rutgers University. I was a math teacher for some years and in 2016 became a web developer for *Forbes*. In 2018 I transitioned to Data Science and now work with machine learning.
+My name is [Boris Yakubchik](/social), aka YBoris. In 2012 I [quit](/quitting) my Educational Psychology Ph.D. program at Rutgers University. I was a math teacher for some years and in 2016 became a web developer for *Forbes*. In 2018 I transitioned to Data Science and now work with machine learning.
 
 I am extremely lucky to be living in a country where I am able to earn enough money to provide for all my needs: food, shelter, and clothing, while at the same helping the world’s neediest through monetary donations to the most cost-effective charitable organizations.
 
