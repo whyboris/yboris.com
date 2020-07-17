@@ -11,7 +11,7 @@ Vegetarian and vegan meals, done well, are absolutely amazing; see for yourself:
 
 
 <center>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/NxG9KGEQyhQ" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxG9KGEQyhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-I highly recommend you watch [Earthlings](https://www.youtube.com/watch?v=HrhM_NUATl4).
+I highly recommend you watch [Earthlings](http://www.nationearth.com/).
