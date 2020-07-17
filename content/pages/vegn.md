@@ -10,6 +10,8 @@ I became a vegan / vegetarian after I learned more about the way animals are cur
 Vegetarian and vegan meals, done well, are absolutely amazing; see for yourself:
 
 
-<center><iframe allowfullscreen="allowfullscreen" frameborder="0" height="311" src="http://www.youtube.com/embed/NxG9KGEQyhQ" title="YouTube video player" width="500"></iframe></center>
+<center>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/NxG9KGEQyhQ" width="560"></iframe>
+</center>
 
 I highly recommend you watch [Earthlings](https://www.youtube.com/watch?v=HrhM_NUATl4).
