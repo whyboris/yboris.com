@@ -17,7 +17,7 @@ There is an organization, **GiveWell**, that has been working for over 5 years t
 
 Another organization, **Giving What We Can**, has used some research done by GiveWell as a starting point, but has supplemented it with its own independent criteria and resources. It continues to do research (has dozens of volunteers across the world in top universities as well as recently full-time staff) and its current best recommendations are [**here**](http://givingwhatwecan.org/where-to-give/recommended-charities).
 
-What’s important to note is that both organizations agree completely that**[The Against Malaria Foundation](https://www.againstmalaria.com/donate.aspx)** is the most cost-effective charity out there. The second-best is almost surely **[Schistosomiasis Control Initiative](http://www3.imperial.ac.uk/schisto/donate)**.
+What’s important to note is that both organizations agree completely that **[The Against Malaria Foundation](https://www.againstmalaria.com/donate.aspx)** is the most cost-effective charity out there. The second-best is almost surely **[Schistosomiasis Control Initiative](http://www3.imperial.ac.uk/schisto/donate)**.
 
 ![amf](/img/amf.jpg)
 

@@ -24,15 +24,15 @@ I don’t mean to argue about which group gives more to charity – I simply mea
 
 I encourage you to get involved in helping people, but I urge you to do it methodically. For me, helping others isn’t about how good I will look in public, or how good it will make me feel once I am done (though I assure you it’s the most rewarding experience); *for me, helping others means helping as many people as I can with the limited resources I have available*.
 
-For example, before you choose to volunteer at a local soup kitchen for an hour, consider working an extra hour and giving the money to charity. [Calculate](http://www.givingwhatwecan.org/resources/how-rich-you-are.php) how well off you are compared to the rest of the world. Many people living in the developing world live in mind-boggling poverty: their life is equivalent to or worse than trying to survive on $1/day in the US.
+For example, before you choose to volunteer at a local soup kitchen for an hour, consider working an extra hour and giving the money to charity. [Calculate](https://howrichami.givingwhatwecan.org/how-rich-am-i) how well off you are compared to the rest of the world. Many people living in the developing world live in mind-boggling poverty: their life is equivalent to or worse than trying to survive on $1/day in the US.
+
+<img src="https://income-inequality.info/images/3.png" style="width: 100%">
 
 This means even small donations to charities working in the developing world can have a profound positive impact on an individual’s life!
 
 Because you want to help as many people as possible with your donation, it’s imperative you research which charity makes the biggest positive difference in people’s lives.
 
 Thankfully there is *[GiveWell](http://givewell.org/)*, an organization that spent over 5 years trying to find charities that do just that. *GiveWell* has looked into [hundreds of promising organizations](http://givewell.org/charities/top-charities) (thousands of others didn’t make it past the first cut) and recommends only less than 1% of them as cost-effective!
-
-![image](http://www.givingwhatwecan.org/sites/default/files/imported/resources/how-rich-you-are-images/world-income-distribution.png)
 
 You may be shocked to find out that the best organizations can be 10,000 times [as cost-effective as others](http://80000hours.org/blog/9-it-is-effectiveness-not-overhead-that-matters). This means giving $10,000 to an average organization might be no better than giving $1 to a cost-effective one! At this point I hope you’re excited about the difference you can make for others during your life.
 
