@@ -6,10 +6,13 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "UA-5555193-3",
-      },
+        trackingIds: ['G-GMST2VER92'],
+        pluginConfig: {
+          head: true
+        }
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
