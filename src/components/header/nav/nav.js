@@ -8,7 +8,7 @@ const Nav = () => (
     <StaticQuery
       query={graphql`
         query {
-          allMarkdownRemark(sort: { fields: [frontmatter___id], order: ASC }) {
+          allMarkdownRemark(sort: {frontmatter: {id: ASC}}) {
             totalCount
             edges {
               node {
