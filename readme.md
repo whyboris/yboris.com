@@ -1,3 +1,9 @@
+# Archived
+
+**Please visit [whyboris/homepage](https://github.com/whyboris/homepage) for the new homepage**
+
+This time built with *Hugo* 🚀
+
 <p align="center">
   YBoris.com
 </p>
